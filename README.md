@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/@akash30229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akash30229" height="30" width="40" /></a>
 <a href="https://instagram.com/akash_chauhan_2063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_chauhan_2063" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@code village cpr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@code village cpr" height="30" width="40" /></a>
+<a href="https://youtube.com/@code86176?si=Hd5DbLgqoDwdr-m5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@code village cpr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
