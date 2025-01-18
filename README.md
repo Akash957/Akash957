@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h4 align="center">Android Kay Champion🏆🏆</h4>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fandroid-robot-hd-8k-wallpaper-stock-photographic-image_60638914.htm&psig=AOvVaw09bLhTNmhhlbKgPp8xXGjl&ust=1729076516288000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjInpKekIkDFQAAAAAdAAAAABAK">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3147608-We-are-actively-seeking-a-Angular-Node-JS-developer%2Fattachments%2F9672748%3Fmode%3Dmedia&psig=AOvVaw2hSii3nR82-SZhTcjxN72E&ust=1737281886422000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCj0MCF_4oDFQAAAAAdAAAAABAS">
 
 <p align="left"> <a href="https://twitter.com/@akash30229" target="blank"><img src="https://img.shields.io/twitter/follow/@akash30229?logo=twitter&style=for-the-badge" alt="@akash30229" /></a> </p>
 
