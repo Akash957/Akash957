@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<h4 align="center">Android Kay Champion🏆🏆</h4>
-<h4 align="center">Flutter Kay Champion🏆🏆</h4>
+<h3 align="center">A passionate full stack developer from India</h3>
+<h4 align="center">full stack developer Flutter🏆🏆</h4>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
 <p align="left"> <a href="https://twitter.com/@akash30229" target="blank"><img src="https://img.shields.io/twitter/follow/@akash30229?logo=twitter&style=for-the-badge" alt="@akash30229" /></a> </p>
 
-- 🌱 I’m currently learning **Android Studio**
-- 🌱 I’m currently learning **Flutter Developer**
+- 🌱 I’m currently  **Android Studio**
+- 🌱 I’m currently  **Flutter Developer**
 
 - 📫 How to reach me **akashkumarm92@gmail.com**
 
